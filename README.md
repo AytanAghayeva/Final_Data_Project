@@ -1,2 +1,2 @@
 # Final_Data_Project
-Cleaned and analyzed jobs dataset using Python and visualized insights with Tableau.
+Using Python (Jupyter Notebook), I cleaned and analyzed the data, then used Tableau to create an interactive dashboard that visualizes key insights.
