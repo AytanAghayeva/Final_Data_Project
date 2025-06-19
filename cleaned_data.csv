@@ -1,0 +1,124 @@
+Work_Year,Job_Title,Job_Category,Salary,Employee_Residence,Experience_Level,Employment_Type,Work_Setting,Company_Location,Company_Size
+2023.0,Business Intelligence Developer,BI and Visualization,63900.0,South Africa,Executive,Contract,In-person,South Korea,Medium
+2023.0,BI Developer,BI and Visualization,91020.0,France,Middle,Full-time,In-person,Norway,Medium
+2023.0,Business Intelligence Analyst,BI and Visualization,81000.0,Italy,Middle,Full-time,Remote,Sweden,Medium
+2023.0,Business Intelligence Engineer,BI and Visualization,135000.0,Netherlands,Senior,Contract,In-person,Mexico,Medium
+2023.0,Business Intelligence Engineer,BI and Visualization,135000.0,United Arab Emirates,Senior,Part-time,In-person,Norway,Medium
+2023.0,Business Intelligence Engineer,BI and Visualization,185000.0,Australia,Senior,Full-time,In-person,United States,Large
+2023.0,Business Intelligence Engineer,BI and Visualization,75000.0,Singapore,Senior,Full-time,Remote,Netherlands,Medium
+2023.0,Data Analyst,Data Analysis,51600.0,China,Entry,Full-time,In-person,Mexico,Medium
+2023.0,Data Analyst,Data Analysis,20857.5,United States,Entry,Contract,Remote,India,Medium
+2023.0,Data Analyst,Data Analysis,37500.0,Russia,Middle,Contract,Remote,Mexico,Medium
+2022.0,Data Analyst,Data Analysis,60000.0,Singapore,Middle,Contract,Remote,Turkey,Medium
+2023.0,Data Analyst,Data Analysis,96000.0,Switzerland,Middle,Full-time,In-person,Netherlands,Medium
+2020.0,Sales Data Analyst,Data Analysis,21600.0,France,Middle,Contract,In-person,South Africa,Medium
+2023.0,Data Analyst,Data Analysis,17000.0,Netherlands,Middle,Full-time,In-person,China,Medium
+2023.0,Data Analyst,Data Analysis,91020.0,Mexico,Middle,Full-time,Remote,Singapore,Large
+2022.0,Data Analyst,Data Analysis,96000.0,Singapore,Middle,Full-time,In-person,Netherlands,Medium
+2023.0,Data Analyst,Data Analysis,51000.0,Switzerland,Middle,Full-time,In-person,Mexico,Medium
+2023.0,Data Analyst,Data Analysis,48000.0,Switzerland,Middle,Full-time,Remote,Russia,Medium
+2022.0,Data Analyst,Data Analysis,20400.0,Russia,Middle,Full-time,Remote,Turkey,Medium
+2023.0,Business Data Analyst,Data Analysis,3060.0,United Kingdom,Middle,Full-time,Remote,India,Large
+2021.0,Data Analyst,Data Analysis,48999.6,Turkey,Senior,Full-time,Remote,South Korea,Medium
+2022.0,Data Analyst,Data Analysis,42000.0,United States,Senior,Full-time,In-person,Turkey,Medium
+2023.0,Data Analyst,Data Analysis,150000.0,Switzerland,Senior,Full-time,In-person,Germany,Medium
+2024.0,Data Analyst,Data Analysis,101400.0,United Kingdom,Senior,Part-time,In-person,Singapore,Medium
+2023.0,Data Analyst,Data Analysis,14820.0,United States,Senior,Contract,In-person,Switzerland,Medium
+2023.0,Data Analyst,Data Analysis,117000.0,South Africa,Senior,Part-time,Remote,Switzerland,Medium
+2023.0,Data Analyst,Data Analysis,91020.0,Mexico,Senior,Full-time,In-person,Russia,Medium
+2022.0,Data Analyst,Data Analysis,44240.0,Italy,Senior,Part-time,In-person,China,Medium
+2022.0,Data Analyst,Data Analysis,69560.4,Switzerland,Senior,Contract,Remote,United Arab Emirates,Medium
+2023.0,Data Analyst,Data Analysis,31600.0,Spain,Senior,Part-time,In-person,China,Medium
+2023.0,Data Analyst,Data Analysis,56640.0,Spain,Senior,Full-time,Remote,Sweden,Medium
+2021.0,Data Architect,Data Architecture and Modeling,91020.0,South Africa,Middle,Full-time,Remote,United Kingdom,Large
+2023.0,Data Architect,Data Architecture and Modeling,108000.0,Turkey,Senior,Part-time,Remote,Japan,Medium
+2023.0,Data Architect,Data Architecture and Modeling,104700.0,Canada,Senior,Full-time,In-person,Russia,Medium
+2023.0,Data Architect,Data Architecture and Modeling,142500.0,Mexico,Senior,Full-time,In-person,Germany,Medium
+2023.0,Data Modeler,Data Architecture and Modeling,31560.0,Sweden,Senior,Contract,In-person,India,Medium
+2024.0,Data Engineer,Data Engineering,72250.0,Germany,Entry,Contract,Remote,United Kingdom,Medium
+2024.0,Data Engineer,Data Engineering,105600.0,Russia,Middle,Part-time,Remote,Turkey,Medium
+2023.0,Data Engineer,Data Engineering,60000.0,Brazil,Middle,Full-time,Remote,Turkey,Medium
+2024.0,Data Engineer,Data Engineering,76500.0,Australia,Senior,Part-time,Remote,Brazil,Medium
+2023.0,Data Engineer,Data Engineering,56400.0,Sweden,Senior,Full-time,In-person,Netherlands,Medium
+2022.0,Data Engineer,Data Engineering,91020.0,Japan,Senior,Full-time,In-person,Italy,Medium
+2022.0,Data Engineer,Data Engineering,202500.0,China,Senior,Part-time,In-person,Australia,Medium
+2023.0,Data Engineer,Data Engineering,161500.0,Italy,Senior,Contract,In-person,United Kingdom,Medium
+2023.0,Data Engineer,Data Engineering,96000.0,Italy,Senior,Full-time,In-person,South Africa,Medium
+2023.0,Data Engineer,Data Engineering,91020.0,Norway,Senior,Full-time,Remote,Spain,Medium
+2023.0,Data Engineer,Data Engineering,124800.0,Norway,Senior,Full-time,Remote,Sweden,Medium
+2023.0,Data Engineer,Data Engineering,66600.0,France,Senior,Part-time,Remote,Sweden,Medium
+2022.0,Data Engineer,Data Engineering,63000.0,Brazil,Senior,Full-time,Remote,United Arab Emirates,Medium
+2023.0,Data Engineer,Data Engineering,58320.0,Spain,Senior,Part-time,In-person,Switzerland,Medium
+2023.0,Data Engineer,Data Engineering,97080.0,India,Senior,Full-time,In-person,Russia,Medium
+2023.0,Data Engineer,Data Engineering,85800.0,Norway,Senior,Full-time,In-person,South Africa,Medium
+2023.0,Data Engineer,Data Engineering,97200.0,India,Senior,Full-time,Remote,Russia,Medium
+2023.0,Data Engineer,Data Engineering,91020.0,Netherlands,Senior,Contract,Remote,United Kingdom,Medium
+2023.0,Data Engineer,Data Engineering,91020.0,Turkey,Senior,Part-time,In-person,South Africa,Medium
+2023.0,Data Engineer,Data Engineering,149011.8,South Korea,Senior,Full-time,In-person,United Kingdom,Medium
+2023.0,Data Engineer,Data Engineering,111540.0,India,Senior,Full-time,In-person,South Korea,Medium
+2023.0,Data Engineer,Data Engineering,123300.0,South Africa,Senior,Full-time,In-person,South Africa,Medium
+2023.0,Data Engineer,Data Engineering,63900.0,Canada,Senior,Contract,In-person,Japan,Medium
+2023.0,Data Integration Specialist,Data Management and Strategy,20400.0,France,Entry,Full-time,In-person,India,Medium
+2023.0,Data Operations Engineer,Data Quality and Operations,193000.0,Brazil,Senior,Full-time,Remote,United States,Medium
+2023.0,Data Scientist,Data Science and Research,63000.0,France,Entry,Full-time,In-person,Mexico,Medium
+2023.0,Applied Data Scientist,Data Science and Research,9900.0,Italy,Entry,Full-time,Hybrid,Switzerland,Large
+2023.0,Research Analyst,Data Science and Research,54720.0,Canada,Entry,Part-time,In-person,Sweden,Medium
+2023.0,Data Science Director,Data Science and Research,171000.0,Mexico,Executive,Full-time,In-person,Australia,Medium
+2023.0,Data Scientist,Data Science and Research,96957.0,China,Middle,Part-time,In-person,France,Medium
+2023.0,Data Scientist,Data Science and Research,91020.0,Turkey,Middle,Full-time,In-person,Russia,Medium
+2023.0,Data Scientist,Data Science and Research,138000.0,Norway,Middle,Full-time,In-person,Mexico,Medium
+2023.0,Data Scientist,Data Science and Research,66400.0,Switzerland,Middle,Full-time,In-person,China,Medium
+2023.0,Research Analyst,Data Science and Research,120700.0,Turkey,Middle,Full-time,In-person,United Kingdom,Medium
+2022.0,Data Scientist,Data Science and Research,25200.0,Japan,Middle,Full-time,Remote,Turkey,Medium
+2021.0,Data Scientist,Data Science and Research,48600.0,France,Middle,Full-time,In-person,India,Medium
+2021.0,Data Scientist,Data Science and Research,33750.0,Singapore,Middle,Contract,Hybrid,Mexico,Large
+2022.0,Data Scientist,Data Science and Research,92160.0,Norway,Senior,Part-time,Remote,South Korea,Medium
+2021.0,Applied Scientist,Data Science and Research,222200.0,Turkey,Senior,Full-time,In-person,United States,Large
+2023.0,Data Scientist,Data Science and Research,91020.0,France,Senior,Part-time,In-person,Germany,Medium
+2023.0,Data Scientist,Data Science and Research,144500.0,Brazil,Senior,Full-time,In-person,United Kingdom,Medium
+2023.0,Data Scientist,Data Science and Research,73740.0,China,Senior,Full-time,In-person,Netherlands,Large
+2023.0,Research Scientist,Data Science and Research,91020.0,South Africa,Senior,Part-time,In-person,Russia,Medium
+2023.0,Applied Scientist,Data Science and Research,183600.0,Sweden,Senior,Contract,Remote,United Kingdom,Medium
+2023.0,Data Scientist,Data Science and Research,163530.0,Mexico,Senior,Full-time,In-person,Singapore,Medium
+2023.0,Data Scientist,Data Science and Research,136500.0,Australia,Senior,Full-time,Remote,Spain,Medium
+2023.0,Research Scientist,Data Science and Research,150000.0,Singapore,Senior,Part-time,In-person,Norway,Medium
+2023.0,Research Engineer,Data Science and Research,150000.0,South Africa,Senior,Contract,In-person,Mexico,Medium
+2022.0,Data Science Manager,Data Science and Research,164800.0,India,Senior,Contract,Remote,Canada,Medium
+2023.0,Data Science Manager,Data Science and Research,111000.0,South Korea,Senior,Full-time,Remote,Sweden,Medium
+2023.0,Data Science Lead,Data Science and Research,103320.0,China,Senior,Full-time,In-person,Switzerland,Medium
+2023.0,Applied Scientist,Data Science and Research,81600.0,United Arab Emirates,Senior,Full-time,In-person,Turkey,Large
+2023.0,Data Scientist,Data Science and Research,138000.0,Japan,Senior,Part-time,Remote,Sweden,Medium
+2021.0,Data Scientist,Data Science and Research,139980.0,India,Senior,Part-time,In-person,Turkey,Medium
+2023.0,Data Scientist,Data Science and Research,93600.0,Japan,Senior,Full-time,Remote,Singapore,Medium
+2023.0,Data Scientist,Data Science and Research,54420.0,India,Senior,Part-time,In-person,Mexico,Medium
+2023.0,Data Scientist,Data Science and Research,83449.1,South Africa,Senior,Contract,Remote,France,Medium
+2023.0,Applied Scientist,Data Science and Research,91020.0,Italy,Senior,Contract,Remote,United Arab Emirates,Medium
+2023.0,Applied Scientist,Data Science and Research,75660.0,Italy,Senior,Full-time,In-person,Norway,Large
+2022.0,Data Science Consultant,Data Science and Research,73200.0,Singapore,Senior,Full-time,In-person,South Africa,Medium
+2023.0,Research Scientist,Data Science and Research,198480.0,United States,Senior,Contract,In-person,Canada,Medium
+2023.0,Data Scientist,Data Science and Research,102438.0,United Arab Emirates,Senior,Part-time,In-person,Mexico,Medium
+2023.0,Analytics Engineer,Leadership and Management,103800.0,Sweden,Senior,Part-time,In-person,Japan,Medium
+2023.0,Data Manager,Leadership and Management,66240.0,China,Senior,Part-time,In-person,Switzerland,Medium
+2023.0,Analytics Engineer,Leadership and Management,91020.0,Singapore,Senior,Part-time,In-person,Switzerland,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,64000.0,Singapore,Middle,Full-time,Remote,China,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,127500.0,Singapore,Middle,Full-time,In-person,United Kingdom,Medium
+2023.0,ML Engineer,Machine Learning and AI,96000.0,Germany,Middle,Full-time,In-person,Russia,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,87255.0,Mexico,Senior,Full-time,In-person,Brazil,Medium
+2022.0,AI Developer,Machine Learning and AI,132000.0,Mexico,Senior,Full-time,In-person,Singapore,Small
+2024.0,AI Engineer,Machine Learning and AI,212000.0,India,Senior,Contract,In-person,United States,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,91020.0,Norway,Senior,Full-time,Remote,United States,Medium
+2022.0,Machine Learning Engineer,Machine Learning and AI,71400.0,France,Senior,Full-time,In-person,Russia,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,90000.0,Sweden,Senior,Full-time,In-person,Brazil,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,46020.0,Switzerland,Senior,Contract,In-person,India,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,92040.0,Australia,Senior,Part-time,In-person,South Africa,Medium
+2023.0,ML Engineer,Machine Learning and AI,227562.0,Turkey,Senior,Part-time,In-person,United Kingdom,Medium
+2024.0,Machine Learning Engineer,Machine Learning and AI,91020.0,Brazil,Senior,Full-time,In-person,Spain,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,120000.0,South Korea,Senior,Full-time,In-person,Sweden,Medium
+2023.0,AI Developer,Machine Learning and AI,21600.0,Italy,Senior,Full-time,In-person,South Africa,Medium
+2023.0,ML Engineer,Machine Learning and AI,52800.0,Netherlands,Senior,Contract,Remote,Turkey,Medium
+2022.0,Machine Learning Scientist,Machine Learning and AI,91020.0,Singapore,Senior,Full-time,In-person,Brazil,Medium
+2023.0,Machine Learning Engineer,Machine Learning and AI,91020.0,France,Senior,Part-time,In-person,Singapore,Medium
+2024.0,Machine Learning Engineer,Machine Learning and AI,99300.0,South Korea,Senior,Part-time,Remote,Norway,Medium
+2023.0,AI Engineer,Machine Learning and AI,143640.0,United States,Senior,Part-time,In-person,Norway,Medium
+2023.0,ML Engineer,Machine Learning and AI,91020.0,Mexico,Senior,Part-time,Remote,China,Medium
+2023.0,ML Engineer,Machine Learning and AI,91020.0,United Kingdom,Senior,Part-time,In-person,United Arab Emirates,Medium
